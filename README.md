@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anupsaha1971
+- 👋 Hi, I’m @anupsaha
 - 👀 I’m interested in Data Science, Machine Learning and Deep Learning
 - 🌱 I’m currently learning Machine Learning and Data analytics
 - 💞️ I’m looking to collaborate on Any project regarding to Data Science And Machine Learning 
